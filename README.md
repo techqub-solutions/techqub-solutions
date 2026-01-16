@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🚀 TechQub Solutions<br><br>We build **scalable web & mobile applications**, **automation systems**, and **AI-powered solutions** for real-world businesses.<br><br>### What we do<br>- Custom web & app development<br>- CRM systems & internal dashboards<br>- AI agents & workflow automation<br>- Business-focused SaaS solutions<br><br>### How we work<br>- Clean, production-ready code<br>- Security & performance focused<br>- Built for growth and real usage<br><br>This GitHub hosts open-source projects, internal tools, demos, and experiments we use in production.<br><br>🌐 https://www.techqubsolutions.com<br>📍 India<br>
 
 
